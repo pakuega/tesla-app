@@ -11,7 +11,8 @@
 <body>
 <h1 align="center">Landmark Technology - Leaders in Software Delivery and DevOps Automation</h1>
 <h2 align="center"> Welcome to Landmark Technology.......God will make a Way where there seem to be no way.He works in ways we cannot see.
-	Put your faith in Jehovah and seek ye first HIS kingdom and HIS righteousness and all these things shall be added to you. 
+	Put your faith in Jehovah and seek ye first HIS kingdom and HIS righteousness and all these things shall be added to you.
+	PRAISE GOD!!
 	Landmark Technology Tesla web application project2. 
 	</h2>
 	<h2 align="center" >DevOps is good. JESUS IS LORD. I AM BLESSED. Production</h2>
