@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Landmark Technology - Leaders in Software Delivery and DevOps Automation</h1>
-<h2 align="center"> Welcome to Landmark Technology.......God will make a Way where there seem to be no way. 
+<h2 align="center"> Welcome to Landmark Technology.......God will make a Way where there seem to be no way.He works in ways we cannot see.  
 	Landmark Technology Tesla web application project2. 
 	</h2>
 	<h2 align="center" >DevOps is good. JESUS IS LORD. I AM BLESSED. Production</h2>
